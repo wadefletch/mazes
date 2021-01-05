@@ -2,7 +2,7 @@
 
 This python script generates mazes using recursive backtracing, solves them with one of a couple methods and then outputs a nice lil' GIF or in the terminal.
 
-<img src="out.gif"/>
+<img src="out.gif" width="400px"/>
 
 ## Usage
 ### GIF with solution (same as preview above)
